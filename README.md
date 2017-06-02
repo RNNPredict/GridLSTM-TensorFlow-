@@ -1,4 +1,4 @@
-# grid-lstm-tensorflow
+# Grid LSTM using TensorFlow
 
 Examples of using GridLSTM (and GridRNN in general) in tensorflow
 
